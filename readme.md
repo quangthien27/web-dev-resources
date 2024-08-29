@@ -209,6 +209,7 @@ This is a complete web development resource you need to build your next project.
 - [i Hate Regex](https://ihateregex.io) - i Hate Regex is a regex cheat sheet that also explains the commonly used expressions so that you understand it.
 - [Regex101](https://regex101.com) - Online regex tester.
 - [Web Code Tools](https://webcode.tools) - Generate HTML5, CSS3, Microdata, JSON-LD, Twitter Cards, Open Graph and more!
+- [HTML Generator](https://iotools.cloud/tool/html-generator/) - Generate HTML5 Elements with AI-powered HTML Generator!!
 - [Carbon](https://carbon.now.sh) - Create and share beautiful images of your source .
 - [CSS Grid Generator](https://grid.layoutit.com) - Quickly design web layouts, and get HTML and CSS code. Learn CSS Grid visually and build web layouts with our interactive CSS Grid Generator.
 - [CSS Scroll Shadows](https://css-scroll-shadows.now.sh) - Adjust the controls (👇) and see the CSS scroll shadows change.
